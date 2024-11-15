@@ -153,20 +153,12 @@ Functions for each array have been seperated into seperate files for ease of vie
 
 **[⬆️Back to Top](#atharvsodyssey)**
 
-https://stackoverflow.com/questions/23593052/format-javascript-date-as-yyyy-mm-dd<br>
-
-https://www.youtube.com/watch?v=Qf5EXOyGRxw<br>
-
-https://stackoverflow.com/questions/8702474/updating-a-json-object-using-javascript<br>
-
-https://www.shecodes.io/athena/11178-how-to-delete-an-index-inside-an-array-in-javascript#:~:text=To%20delete%20an%20index%20inside%20an%20array%20in%20JavaScript%2C%20you,use%20the%20splice()%20method.&text=In%20the%20example%20code%2C%20splice,number%20of%20elements%20to%20remove.<br>
-
-https://stackoverflow.com/questions/42499698/sorting-an-array-of-objects-based-on-a-property-value-int<br>
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift<br>
-
-https://www.w3schools.com/howto/howto_js_spread_operator.asp<br>
-
-https://stackoverflow.com/questions/1230233/how-to-find-the-sum-of-an-array-of-numbers<br>
-
-https://stackoverflow.com/questions/4652104/convert-a-negative-number-to-a-positive-one-in-javascript<br>
+- [Format JavaScript Date as YYYY-MM-DD](https://stackoverflow.com/questions/23593052/format-javascript-date-as-yyyy-mm-dd)
+- [YouTube Tutorial on Inquirer Package](https://www.youtube.com/watch?v=Qf5EXOyGRxw)
+- [Updating a JSON Object Using JavaScript](https://stackoverflow.com/questions/8702474/updating-a-json-object-using-javascript)
+- [Delete an Index Inside an Array in JavaScript](<https://www.shecodes.io/athena/11178-how-to-delete-an-index-inside-an-array-in-javascript#:~:text=To%20delete%20an%20index%20inside%20an%20array%20in%20JavaScript%2C%20you,use%20the%20splice()%20method.&text=In%20the%20example%20code%2C%20splice,number%20of%20elements%20to%20remove.>)
+- [Sort an Array of Objects Based on a Property Value](https://stackoverflow.com/questions/42499698/sorting-an-array-of-objects-based-on-a-property-value-int)
+- [Using Array.unshift in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)
+- [How to Use the Spread Operator](https://www.w3schools.com/howto/howto_js_spread_operator.asp)
+- [Find the Sum of an Array of Numbers](https://stackoverflow.com/questions/1230233/how-to-find-the-sum-of-an-array-of-numbers)
+- [Convert a Negative Number to a Positive One in JavaScript](https://stackoverflow.com/questions/4652104/convert-a-negative-number-to-a-positive-one-in-javascript)
