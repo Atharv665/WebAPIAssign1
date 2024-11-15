@@ -1,13 +1,3 @@
-# Assignment 1
-
-You will only need one file, ie, your node module, for this assignment.
-
-In this readme file, describe how to use your node module. It could be similar to **app.js** from Lab2, where you call some functions in your node module and display the output. Describe how to setup your node module, if any. Describe how to call the functions, what parameters required and so on.
-
-You can press **Ctrl+Shift+V** in this file in Visual Studio Code to see a live preview of the readme file.
-
-For some tips in formatting text in readme file, refer to https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
 # AtharvsOdyssey
 
 - [Overview](#overview-back)
@@ -16,6 +6,7 @@ For some tips in formatting text in readme file, refer to https://docs.github.co
 - [Booking-Module](#booking-module)
 - [Comments-Module](#comments-module)
 - [Destination-Module](#destination-module)
+- [Sentiment Package](#sentiment-package)
 - [User-Module](#user-module)
 - [Menus](#menus)
 - [User Permissions System](#user-permissions-system)
@@ -43,7 +34,7 @@ To setup the node module, please run `npm install` in your terminal which will a
 After that, run `node odyssey.js`.
 
 **Note**<br>
-Before running the application, make sure you have created a user or admin json object for yourself in the user.js file, in the users array.This will be needed for login as the module will authenricate you with your username and password before showing you the menus you can access.Feel free to use the already created users to test too. I have added 2 examples of users to show what information is needed for each user.
+Before running the application, make sure you have created a user or admin json object for yourself in the user.js file, in the users array.This will be needed for login as the module will authenticate you with your username and password before showing you the menus you can access.Feel free to use the already created users to test too. I have added 2 examples of users to show what information is needed for each user.
 
 ## Dependencies
 
@@ -118,7 +109,7 @@ The following menus are accessible to both type of users.<br>
 
 The sentiment package works by analysing the words in the user's comment and identifying positive or negative words.Based on the number of positive or negative words, a score is given to each comment.The higher the score, the more positive the comment.<br>
 
-Some fake comments have been pre-added into the comments array to test out the sentiment anaylysis comment functions.Feel free to add your own comment and also test it out.The more foul or lovely your comment, the more accurate the scores.
+Some fake comments have been pre-added into the comments array to test out the sentiment analysis comment functions.Feel free to add your own comment and also test it out.The more foul or lovely your comment, the more accurate the scores.
 
 ## User Permissions System
 
