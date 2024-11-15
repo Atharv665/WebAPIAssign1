@@ -1,0 +1,17 @@
+{
+  "name": "webapiassign1",
+  "version": "1.0.0",
+  "description": "assignment1",
+  "main": "Yourname_ModuleName.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^12.0.1",
+    "sentiment": "^5.0.2"
+  }
+}
