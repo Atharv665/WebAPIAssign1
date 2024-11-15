@@ -29,9 +29,23 @@ All functions that have been used for array operations are seperated into indivi
 
 **[⬆️Back to Top](#atharvsodyssey)**
 
-To setup the node module, please run `npm install` in your terminal which will automatically install the dependencies needed for this module.<br>
+**Step 1** : Clone the repository using the command:
 
-After that, run `node odyssey.js`.
+```bash
+git clone https://github.com/Atharv665/WebAPIAssign1.git
+```
+
+**Step 2** : Install required node modules using the command:
+
+```bash
+npm install
+```
+
+**Step 3** : After that, run the project using the command:
+
+```bash
+node odyssey.js
+```
 
 **Note**<br>
 Before running the application, make sure you have created a user or admin json object for yourself in the user.js file, in the users array.This will be needed for login as the module will authenticate you with your username and password before showing you the menus you can access.Feel free to use the already created users to test too. I have added 2 examples of users to show what information is needed for each user.
