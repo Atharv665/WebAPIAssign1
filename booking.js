@@ -77,7 +77,7 @@ const BookingModule = {
   //calculates revenue by checking instances of each destination name in booking and then adds all the prices together by referencing the
   //price in the destination table.
   calculateRevenue() {
-    return this.bookings.reduce((total, booking) => {
+    const totalRevenue = this.bookings.reduce((total, booking) => {
       const destination = DestinationModule.getDestinationsByName(
         booking.destinationName
       );
@@ -85,6 +85,8 @@ const BookingModule = {
         ? total + destination[0].price
         : total;
     }, 0);
+
+    return chalk.greenBright(`Revenue Calculated: ${totalRevenue}`);
   },
 };
 

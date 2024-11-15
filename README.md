@@ -118,8 +118,6 @@ The following menus are accessible to both type of users.<br>
 
 The sentiment package works by analysing the words in the user's comment and identifying positive or negative words.Based on the number of positive or negative words, a score is given to each comment.The higher the score, the more positive the comment.<br>
 
-The calculate
-
 Some fake comments have been pre-added into the comments array to test out the sentiment anaylysis comment functions.Feel free to add your own comment and also test it out.The more foul or lovely your comment, the more accurate the scores.
 
 ## User Permissions System
