@@ -6,8 +6,8 @@ const UserModule = {
   users: [
     {
       id: 1,
-      username: "Atharvisherr",
-      password: "lmao",
+      username: "Atharv",
+      password: "admin123",
       phoneNumber: "90660459",
       dateJoined: "2024-11-01",
       role: "admin",
